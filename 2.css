@@ -15,12 +15,12 @@
 }
 
 .content {
-	background-color: #59b4c4;
+	background-color: #f798c7;
 }
 
 body {
 	/* Ảnh nền của trang thứ 2 */
-	background-image: url("./img/bg2.jpg");
+	background-image: url("./img/bg3.jpg");
 	background-size: cover;
     background-repeat: none;
 }
@@ -35,7 +35,7 @@ span {
 
 .mask {
 	position: absolute;
-	background-color: #59b4c4;
+	background-color: #f397eb;
 	width: 100%;
 	height:100%;
 	top: 0;
